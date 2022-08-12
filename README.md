@@ -35,6 +35,6 @@ git clone https://github.com/798256478/vue-admin.git
    
  
 
-![淘优购](https://tyg.zwbysgs.cn/uploads/20220812/f0a0df66ee0e9f3593e15e822ab83692.png)
+![淘优购](https://tyg.zwbysgs.cn/uploads/20220812/e4cce9222b2655ef31d9bd7fc2265510.png)
 
 微信/支付宝扫一扫访问小程序，轻松赚钱
