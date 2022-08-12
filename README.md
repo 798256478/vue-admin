@@ -10,6 +10,10 @@ vue + elementui + thinkphp5.1 + mysql
 后端：thinkphp5.1+mysql
 
 #### 安装教程
+```bash
+# 克隆项目
+git clone https://github.com/798256478/vue-admin.git
+```
 
 ##### 后端
 1.  进入backend目录，执行composer install安装依赖
