@@ -1,6 +1,6 @@
 # vue-admin
 
-[线上访问](http://panjiachen.github.io/vue-admin-template)
+[线上访问](http://vaf.zwbysgs.cn/)
 
 #### 介绍
 vue + elementui + thinkphp5.1 + mysql
