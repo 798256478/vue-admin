@@ -26,3 +26,10 @@ git clone https://github.com/798256478/vue-admin.git
 
 #### 使用说明
 登录用户:admin,密码：secret
+
+
+# 淘优购—自购返利，分享赚钱
+
+![淘优购](https://tyg.zwbysgs.cn/uploads/20220812/f0a0df66ee0e9f3593e15e822ab83692.png)
+
+微信/支付宝扫一扫访问小程序，轻松赚钱
